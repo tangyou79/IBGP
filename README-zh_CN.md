@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="http://ant.design">
+    <a href="https://github.com/tangyou79/IBGP">
         <img width="200" src="./img/LOGO.png">
     </a>
 </p>
 
-# [**I**]()ntegrated [**B**]()ayes [**G**]()enomic [**P**]()rediction
+# [**I**](https://github.com/tangyou79/IBGP)ntegrated [**B**](https://github.com/tangyou79/IBGP)ayes [**G**](https://github.com/tangyou79/IBGP)enomic [**P**](https://github.com/tangyou79/IBGP)rediction
 
 简体中文&nbsp;&nbsp;|&nbsp;&nbsp;[English](./README.md)
 
