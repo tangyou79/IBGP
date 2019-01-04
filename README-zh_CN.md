@@ -9,7 +9,7 @@
 简体中文&nbsp;&nbsp;|&nbsp;&nbsp;[English](./README.md)
 
 ## 作者
-> [YouTang](https://github.com/tangyou79) &nbsp;&nbsp; :e-mail: &nbsp; tangyou@neau.edu.cn
+> [YouTang](https://github.com/tangyou79) &nbsp;&nbsp; :e-mail:tangyou@neau.edu.cn
 
 
 ## 运行
